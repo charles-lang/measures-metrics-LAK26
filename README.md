@@ -20,7 +20,7 @@ The NMME Workshop at LAK25 is bringing together researchers and practitioners to
 
 ## Call for Participation
 
-Get involved! The main activity will be the presentation and discussion of particpant-submitted measures and metrics. To take part please [**submit a measure or metric that you are currently working on or want to be working on in the future by December 16th!**](https://tccolumbia.qualtrics.com/jfe/form/SV_6PZRhoxgXkmmaKq)  
+Get involved! The main activity will be the presentation and discussion of particpant-submitted measures and metrics. To take part please [**submit a measure or metric that you are currently working on or want to be working on in the future by December 16th!**]([https://tccolumbia.qualtrics.com/jfe/form/SV_6PZRhoxgXkmmaKq](https://tccolumbia.qualtrics.com/jfe/form/SV_73amBx3V6UsTdm6))  
 
 Registration for attendance is also required via the [LAK 2025 conference webpage](https://www.solaresearch.org/events/lak/lak25/).
 
