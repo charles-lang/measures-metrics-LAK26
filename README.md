@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Workshop on New Measures & Metrics <br> LAK25</h1>
+<h1 align="center">Workshop on New Measures & Metrics <br> LAK26</h1>
 
 # Workshop Details 
 
