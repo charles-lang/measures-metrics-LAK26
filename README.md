@@ -10,7 +10,7 @@
 
 **Date:**  Monday, April 27, 2025 <br>
 **Time:**  1:00pm to 5:00pm <br>
-**Place:** In-person, Bergen, Norway 
+**Place:** In-person, University of Bergen, Norway 
 
 ## Overview
 
